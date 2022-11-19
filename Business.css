@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Business{
+    display: flex;
+    justify-content: space-around;
+
+}
+.image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    
+}
+.para{
+    font-size: 24px;
+}
